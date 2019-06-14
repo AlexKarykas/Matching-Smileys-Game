@@ -1,0 +1,31 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+h1, p {
+    text-align: center;
+    font-family: sans-serif;
+
+}
+div {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
+
+img {
+    position: absolute;
+}
+
+#rightSide {
+    border-left: solid 1px black;
+    left: 505px;
+}
+
+footer {
+    position: relative;
+    margin-top: 30%;
+    clear: both;
+}
+
+
