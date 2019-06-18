@@ -24,7 +24,7 @@ function generateFaces(faces, leftSideImg) {
         topRandNum = Math.floor(Math.random() * 400);
         leftRandNum = Math.floor(Math.random() * 400);
         //Set the source of the image
-        face.src = "smiley100.png";
+        face.src = "smiley100outlined.png";
         //Set the position of the image
         face.style.position = "relative";
         face.style.top = topRandNum + "px";
